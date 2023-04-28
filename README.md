@@ -10,9 +10,9 @@ Before running the code, make sure you have the following libraries installed:
 
 
 ## Usage
-*1. The code reads the input image and displays it using Matplotlib. You can use the plt.imshow() function to visualize the image.
+*1*. The code reads the input image and displays it using Matplotlib. You can use the plt.imshow() function to visualize the image.
 
-*2. The code also demonstrates how to crop images using NumPy arrays. You can use the img[x1:x2, y1:y2, :] syntax to crop the image.
+*2*. The code also demonstrates how to crop images using NumPy arrays. You can use the img[x1:x2, y1:y2, :] syntax to crop the image.
 
 ## Examples
 The code includes examples for cropping the following images:
